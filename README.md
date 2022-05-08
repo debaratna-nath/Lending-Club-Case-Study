@@ -1,6 +1,6 @@
 # Lending-Club-Case-Study
 
-The organisation **Lending Club** is as a peer-to-peer company and acts as a marketplace for matching possible investors with available loan applicants. 
+The organisation **Lending Club** is as a peer-to-peer company that acts as a marketplace for matching possible investors with available loan applicants. 
 Once an Applicant applies for a loan, the company performs a risk assessment based on the applicant's profile.
 Approving loans on risky applicants can lead to financial losses, while rejecting loan approvals for safe applicants lead to loss of business.
 
@@ -13,3 +13,7 @@ The Steps followed in this Notebook are as follows:
 - Bivariate Analysis: Bivariate Boxplots and Side-by-Side barplots.
 - Multivariate Analysis: Multiplot side-by-side bargraphs, Clustermaps etc.
 
+
+Note: 
+- Unzip the data loan.csv from 'input_files/' before running the notebook
+- Final Notebook: LC_Case_Study.ipynb
