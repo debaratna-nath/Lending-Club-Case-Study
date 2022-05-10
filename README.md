@@ -18,9 +18,11 @@ This Case Study aims at determining the driving factors behind Loan Defaulting.
 
 <br/>
 <br/>
+
 **Background:** This Case Study is a Part of Statistics Essentials Course of the Exec. Post Graduate Programme by IIIT-Bangalore in Association with UpGrad.
 <br/>
 <br/>
+
 **Dataset:** The Dataset is provided by the Institute and contains the historical Customer Demographic and Loan Information data of the applicants. It has 39717 rows and 111 columns. 
 
 _Note:_
@@ -29,6 +31,7 @@ _- Unzip the data loan.csv from 'input_files/' before running the notebook_
 
 <br/>
 <br/>
+
 **Technology/Libraries used:**
 - NumPy: 1.20.1
 - Pandas: 1.2.4
@@ -38,6 +41,7 @@ _- Unzip the data loan.csv from 'input_files/' before running the notebook_
 
 <br/>
 <br/>
+
 **Final Observation and Inference** _[Also available at the end of the notebook]_ <br/>
 - The Probability of Defaulting increases for applicants with a higher loan to income ratio (> 25% of their yearly income). <br/>
 - The Probability of Defaulting increases for applicants with a higher installment to income ratio (>9% of their monthly income)<br/>
